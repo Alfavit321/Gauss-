@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 using namespace std;
 class Gauss{
     float m;
@@ -75,7 +75,7 @@ void Gauss::Print()
     }
     cout << endl;
 }
-void Gauss::Del()
+void Gauss::Del()sdsd
 {
     for (int i = 0; i <this->m; i++)
     {
